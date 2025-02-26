@@ -98,7 +98,7 @@
     {   
         "ramal": "3039", 
         "nome": "Carlos Dudar", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "GSMISC003" 
     },
     {   
@@ -116,8 +116,8 @@
     {   
         "ramal": "3012", 
         "nome": "Claudia", 
-        "setor": "Laboratório Tintas", 
-        "maquina": "SINASC009" 
+        "setor": "Industria de Tintas", 
+        "maquina": "SMISCITI05" 
     },
     {   
         "ramal": "3020", 
@@ -254,7 +254,7 @@
     {   
         "ramal": "3046", 
         "nome": "Gabriel", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC06" 
     },
     {   
@@ -416,8 +416,8 @@
     {   
         "ramal": "3012", 
         "nome": "Leonardo", 
-        "setor": "Laboratório Tintas", 
-        "maquina": "LABTINTAS1" 
+        "setor": "Industria de Tintas", 
+        "maquina": "SMISCITI04" 
     },
     {   
         "ramal": "3004", 
@@ -446,7 +446,7 @@
     {   
         "ramal": "3046", 
         "nome": "Luiza", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC03" 
     },
     {   
@@ -476,7 +476,7 @@
     {   
         "ramal": "3071", 
         "nome": "Marcos", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC05" 
     },
     {   
@@ -572,7 +572,7 @@
     {   
         "ramal": "3071", 
         "nome": "Ramon", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC04" 
     },
     {   
@@ -620,7 +620,7 @@
     {   
         "ramal": "3039", 
         "nome": "Rodrigo Perdona", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC02" 
     },
     {   
@@ -668,8 +668,8 @@
     {   
         "ramal": "3082", 
         "nome": "Stefani", 
-        "setor": "Fábrica de Tintas", 
-        "maquina": "SMISCFT01" 
+        "setor": "Industria de Tintas", 
+        "maquina": "SMISCITI02" 
     },
     {   
         "ramal": "3063", 
@@ -680,8 +680,8 @@
     {   
         "ramal": "3082", 
         "nome": "Steffany", 
-        "setor": "Fábrica de Tintas", 
-        "maquina": "FABTINTAS2" 
+        "setor": "Industria de Tintas", 
+        "maquina": "SMISCITI01" 
     },
     {   
         "ramal": "3083", 
@@ -698,7 +698,7 @@
     {   
         "ramal": "3091", 
         "nome": "Teddy", 
-        "setor": "Tecnologia da Informação", 
+        "setor": "Tecnologia", 
         "maquina": "SMISCTEC01" 
     },
     {   
