@@ -255,7 +255,7 @@
         "ramal": "3046", 
         "nome": "Gabriel", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "SINASC016" 
+        "maquina": "SMISCTEC06" 
     },
     {   
         "ramal": "3016", 
@@ -447,7 +447,7 @@
         "ramal": "3046", 
         "nome": "Luiza", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "TI4" 
+        "maquina": "SMISCTEC03" 
     },
     {   
         "ramal": "3060", 
@@ -477,7 +477,7 @@
         "ramal": "3071", 
         "nome": "Marcos", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "GSMISC007" 
+        "maquina": "SMISCTEC05" 
     },
     {   
         "ramal": "3064", 
@@ -573,7 +573,7 @@
         "ramal": "3071", 
         "nome": "Ramon", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "TI2" 
+        "maquina": "SMISCTEC04" 
     },
     {   
         "ramal": "3012", 
@@ -621,7 +621,7 @@
         "ramal": "3039", 
         "nome": "Rodrigo Perdona", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "GSMISC009" 
+        "maquina": "SMISCTEC02" 
     },
     {   
         "ramal": "3054", 
@@ -699,7 +699,7 @@
         "ramal": "3091", 
         "nome": "Teddy", 
         "setor": "Tecnologia da Informação", 
-        "maquina": "GSMISC008" 
+        "maquina": "SMISCTEC01" 
     },
     {   
         "ramal": "3052", 
