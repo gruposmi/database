@@ -54,13 +54,13 @@
         "maquina": "SMISCIPA0X" 
     },
     {   
-        "ramal": "", 
+        "ramal": "3062", 
         "nome": "Ana", 
         "setor": "Licitação", 
         "maquina": "SMISCLIC03" 
     },
     {   
-        "ramal": "", 
+        "ramal": "3082", 
         "nome": "Ana", 
         "setor": "Industria de Tintas", 
         "maquina": "SMISCITI03" 
@@ -90,7 +90,7 @@
         "maquina": "FISCAL3" 
     },    
     {   
-        "ramal": "    ", 
+        "ramal": "3059", 
         "nome": "Augusto Ender", 
         "setor": "Almoxarifado", 
         "maquina": "SMISCALM02" 
@@ -156,7 +156,7 @@
         "maquina": "SMISCMAN01" 
     },
     {   
-        "ramal": "    ", 
+        "ramal": "3062", 
         "nome": "Danielle", 
         "setor": "Licitação", 
         "maquina": "SMISCLIC01" 
@@ -648,7 +648,7 @@
         "maquina": "SMISCGRH11" 
     },
     {   
-        "ramal": "    ", 
+        "ramal": "3152", 
         "nome": "Rodrigo Guerrero", 
         "setor": "Engenharia", 
         "maquina": "SMISCENG01" 
@@ -778,11 +778,5 @@
         "nome": "Willian", 
         "setor": "Comercial", 
         "maquina": "SMISCCOM02" 
-    },
-    {   
-        "ramal": "3059", 
-        "nome": "Willian", 
-        "setor": "Almoxarifado SST", 
-        "maquina": "SINASC019" 
     }
 ]
