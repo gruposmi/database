@@ -3,7 +3,7 @@
         "ramal": "3006", 
         "nome": "Acácia", 
         "setor": "Obras", 
-        "maquina": "OBRAS1" 
+        "maquina": "SMISCOBR01" 
     },
     {   
         "ramal": "3152", 
@@ -27,7 +27,7 @@
         "ramal": "3078", 
         "nome": "Agatha", 
         "setor": "Obras", 
-        "maquina": "SINASC021" 
+        "maquina": "SMISCOBR07" 
     },
     {   
         "ramal": "3082", 
@@ -81,7 +81,7 @@
         "ramal": "3047", 
         "nome": "Aquelim", 
         "setor": "Obras", 
-        "maquina": "OBRAS3" 
+        "maquina": "SMISCOBR03" 
     },
     {   
         "ramal": "3032", 
@@ -219,7 +219,7 @@
         "ramal": "3019", 
         "nome": "Edira", 
         "setor": "Financeiro", 
-        "maquina": "FINANCEIRO3" 
+        "maquina": "SMISCFIN03" 
     },
     {   
         "ramal": "109", 
@@ -255,7 +255,7 @@
         "ramal": "3078", 
         "nome": "Flávia", 
         "setor": "Obras", 
-        "maquina": "OBRAS4" 
+        "maquina": "SMISCOBR04" 
     },
     {   
         "ramal": "3066", 
@@ -351,13 +351,13 @@
         "ramal": "3050", 
         "nome": "Jessica", 
         "setor": "Obras", 
-        "maquina": "" 
+        "maquina": "SMISCOBR06" 
     },
     {   
         "ramal": "3088", 
         "nome": "Jessica", 
         "setor": "Financeiro", 
-        "maquina": "SINASC018" 
+        "maquina": "SMISCFIN05" 
     },
     {   
         "ramal": "3038", 
@@ -435,7 +435,7 @@
         "ramal": "3029", 
         "nome": "Lemonie", 
         "setor": "Financeiro", 
-        "maquina": "FINANCEIRO4" 
+        "maquina": "SMISCFIN04" 
     },
     {   
         "ramal": "3012", 
@@ -508,6 +508,12 @@
         "nome": "Marcos", 
         "setor": "Tecnologia", 
         "maquina": "SMISCTEC05" 
+    },
+    {   
+        "ramal": "    ", 
+        "nome": "Maria", 
+        "setor": "Obras", 
+        "maquina": "SMISCOBR02" 
     },
     {   
         "ramal": "3064", 
@@ -603,7 +609,7 @@
         "ramal": "3027", 
         "nome": "Raiza", 
         "setor": "Financeiro", 
-        "maquina": "FINANCEIRO2" 
+        "maquina": "SMISCFIN06" 
     },
     {   
         "ramal": "3071", 
@@ -729,7 +735,7 @@
         "ramal": "3083", 
         "nome": "Sthefany", 
         "setor": "Obras", 
-        "maquina": "OBRAS5" 
+        "maquina": "SMISCOBR05" 
     },
     {   
         "ramal": "3066", 
