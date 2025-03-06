@@ -94,7 +94,13 @@
         "nome": "Augusto Ender", 
         "setor": "Almoxarifado", 
         "maquina": "SMISCALM02" 
-    },          
+    }, 
+    {   
+        "ramal": "", 
+        "nome": "Balança", 
+        "setor": "Balança", 
+        "maquina": "SERVERBALANCA" 
+    },
     {   
         "ramal": "3070", 
         "nome": "Barbara", 
@@ -303,7 +309,7 @@
         "ramal": "3070", 
         "nome": "Giovani", 
         "setor": "Logística", 
-        "maquina": "LOGISTICA1" 
+        "maquina": "SMISCLOG03" 
     },
     {   
         "ramal": "3067", 
