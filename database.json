@@ -9,13 +9,13 @@
         "ramal": "3152", 
         "nome": "Adenilson Boeira", 
         "setor": "Engenharia", 
-        "maquina": "ENG01" 
+        "maquina": "SMISCENG02" 
     },
     {   
         "ramal": "3042", 
         "nome": "Adriana", 
         "setor": "Fiscal", 
-        "maquina": "FISCAL1" 
+        "maquina": "SMISCFIS06" 
     },
     {   
         "ramal": "3018", 
@@ -87,7 +87,7 @@
         "ramal": "3032", 
         "nome": "Aryelle", 
         "setor": "Fiscal", 
-        "maquina": "FISCAL3" 
+        "maquina": "SMISCFIS07" 
     },    
     {   
         "ramal": "3059", 
@@ -268,6 +268,12 @@
         "nome": "Franciele", 
         "setor": "Fiscal", 
         "maquina": "SMISCFIS01" 
+    },
+    {   
+        "ramal": "3066", 
+        "nome": "Franciellen", 
+        "setor": "Fiscal", 
+        "maquina": "SMISCFIS05" 
     },
     {   
         "ramal": "3009", 
@@ -765,7 +771,7 @@
         "ramal": "3110", 
         "nome": "Valeria", 
         "setor": "Fiscal", 
-        "maquina": "SINASC001" 
+        "maquina": "SMISCFIS08" 
     },
     {   
         "ramal": "3051", 
