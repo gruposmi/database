@@ -375,7 +375,7 @@
         "ramal": "3038", 
         "nome": "Joana", 
         "setor": "Contabilidade", 
-        "maquina": "CONTABILIDADE1" 
+        "maquina": "SMISCCOT03" 
     }, 
     {   
         "ramal": "3094", 
@@ -417,7 +417,7 @@
         "ramal": "3053", 
         "nome": "Juliana", 
         "setor": "SST", 
-        "maquina": "GSMISC034" 
+        "maquina": "SMISCSEG06" 
     },
     {   
         "ramal": "3053", 
@@ -597,7 +597,7 @@
         "ramal": "3153", 
         "nome": "Paula", 
         "setor": "Contabilidade", 
-        "maquina": "GSMISC0019" 
+        "maquina": "SMISCCOT04" 
     }, 
     {   
         "ramal": "3002", 
@@ -723,7 +723,7 @@
         "ramal": "3065", 
         "nome": "Sônia", 
         "setor": "Contabilidade", 
-        "maquina": "CONTABILIDADE3" 
+        "maquina": "SMISCCOT02" 
     },
     {   
         "ramal": "3082", 
