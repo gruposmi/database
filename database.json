@@ -150,6 +150,12 @@
         "maquina": "" 
     },
     {   
+        "ramal": "3011", 
+        "nome": "Cristiano", 
+        "setor": "Contabilidade", 
+        "maquina": "SMISCCOT05" 
+    },
+    {   
         "ramal": "3057", 
         "nome": "Daiane", 
         "setor": "Comercial", 
@@ -436,6 +442,12 @@
         "nome": "Keize", 
         "setor": "Industria Apontamento", 
         "maquina": "SMISCIAP03" 
+    },
+    {   
+        "ramal": "3086", 
+        "nome": "Ketlin", 
+        "setor": "Compras", 
+        "maquina": "SMISCCOP02" 
     },
     {   
         "ramal": "3021", 
@@ -754,6 +766,12 @@
         "nome": "Taffiny", 
         "setor": "Fiscal", 
         "maquina": "SMISCFIS04" 
+    },
+    {   
+        "ramal": "3037", 
+        "nome": "Taina", 
+        "setor": "Gestão de Pessoas", 
+        "maquina": "SMISCGEP01" 
     },
     {   
         "ramal": "3091", 
