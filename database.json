@@ -213,7 +213,7 @@
         "ramal": "3150", 
         "nome": "Douglas", 
         "setor": "RH", 
-        "maquina": "RH5" 
+        "maquina": "SMISCGRH13" 
     },
     {   
         "ramal": "3058", 
@@ -693,7 +693,7 @@
         "ramal": "3086", 
         "nome": "Rosimeri", 
         "setor": "Compras", 
-        "maquina": "SINASC002" 
+        "maquina": "SMISCCOP01" 
     },
     {   
         "ramal": "3073", 
@@ -717,7 +717,7 @@
         "ramal": "3022", 
         "nome": "Sharmean", 
         "setor": "Compras", 
-        "maquina": "COMPRAS1" 
+        "maquina": "SMISCCOP03" 
     },
     {   
         "ramal": "3065", 
