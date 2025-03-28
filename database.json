@@ -98,7 +98,7 @@
     {   
         "ramal": "", 
         "nome": "Balança", 
-        "setor": "Balança", 
+        "setor": "Logística", 
         "maquina": "SERVERBALANCA" 
     },
     {   
@@ -723,7 +723,7 @@
         "ramal": "3112", 
         "nome": "Drª Sasha", 
         "setor": "Jurídico", 
-        "maquina": "" 
+        "maquina": "SMISCJUR03" 
     }, 
     {   
         "ramal": "3022", 
@@ -772,6 +772,12 @@
         "nome": "Taina", 
         "setor": "Gestão de Pessoas", 
         "maquina": "SMISCGEP01" 
+    },
+    {   
+        "ramal": "3019", 
+        "nome": "Taís", 
+        "setor": "Financeiro", 
+        "maquina": "SMISCFIN02" 
     },
     {   
         "ramal": "3091", 
