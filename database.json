@@ -92,7 +92,7 @@
     {   
         "ramal": "3059", 
         "nome": "Augusto Ender", 
-        "setor": "Almoxarifado", 
+        "setor": "Almoxarifado SST", 
         "maquina": "SMISCALM02" 
     }, 
     {   
@@ -210,6 +210,12 @@
         "maquina": "SMISCFIN01" 
     },
     {   
+        "ramal": "3059", 
+        "nome": "Dione", 
+        "setor": "Almoxarifado SST", 
+        "maquina": "SMISCALM03" 
+    },
+    {   
         "ramal": "3015", 
         "nome": "Donizete", 
         "setor": "Metalúrgica", 
@@ -255,7 +261,7 @@
         "ramal": "3007", 
         "nome": "Evilyn", 
         "setor": "Compras", 
-        "maquina": "COMPRAS4" 
+        "maquina": "SMISCCOP05" 
     },               
     {   
         "ramal": "3009", 
@@ -500,8 +506,8 @@
     {   
         "ramal": "3060", 
         "nome": "Engª Lusania", 
-        "setor": "Financeiro", 
-        "maquina": "" 
+        "setor": "Diretoria", 
+        "maquina": "SMISCDIR03" 
     },
     {   
         "ramal": "3037", 
@@ -615,7 +621,7 @@
         "ramal": "3002", 
         "nome": "Drº Pedro", 
         "setor": "Diretor", 
-        "maquina": "" 
+        "maquina": "SMISCDIR02" 
     },           
     {   
         "ramal": "3024", 
