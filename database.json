@@ -369,7 +369,7 @@
         "ramal": "3037", 
         "nome": "Jessica", 
         "setor": "Gestão de Pessoas", 
-        "maquina": "NOTEGP03" 
+        "maquina": "SMISCGEP03"
     },
     {   
         "ramal": "3050", 
@@ -513,7 +513,7 @@
         "ramal": "3037", 
         "nome": "Manu", 
         "setor": "Gestão de Pessoas", 
-        "maquina": "NOTEGP02" 
+        "maquina": "SMISCGEP02" 
     },
     {   
         "ramal": "3092", 
