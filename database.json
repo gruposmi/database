@@ -396,7 +396,7 @@
         "maquina": "SMISCGRH08" 
     }, 
     {   
-        "ramal": "    ", 
+        "ramal": "3054", 
         "nome": "Jorge", 
         "setor": "Gestão Industrial", 
         "maquina": "SMISCGID01" 
@@ -700,12 +700,6 @@
         "nome": "Rodrigo Perdona", 
         "setor": "Tecnologia", 
         "maquina": "SMISCTEC02" 
-    },
-    {   
-        "ramal": "3054", 
-        "nome": "Rogério Atanazio", 
-        "setor": "Compras", 
-        "maquina": "GSMISC036" 
     },
     {   
         "ramal": "3086", 
