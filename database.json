@@ -134,8 +134,8 @@
     {   
         "ramal": "3001", 
         "nome": "Chico", 
-        "setor": "Diretor", 
-        "maquina": "" 
+        "setor": "Diretoria", 
+        "maquina": "SMISCDIR04" 
     },
     {   
         "ramal": "3012", 
@@ -322,7 +322,13 @@
         "nome": "Drª Gabriele", 
         "setor": "Jurídico", 
         "maquina": "" 
-    },         
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Giovana", 
+        "setor": "Marketing", 
+        "maquina": "SMISCMKT02" 
+    },
     {   
         "ramal": "3070", 
         "nome": "Giovani", 
@@ -411,7 +417,7 @@
         "ramal": "3099", 
         "nome": "Josiane", 
         "setor": "Controle", 
-        "maquina": "" 
+        "maquina": "SMISCCON04" 
     }, 
     {   
         "ramal": "3028", 
@@ -459,7 +465,7 @@
         "ramal": "3021", 
         "nome": "Leandro Fernandes", 
         "setor": "Industria de Placas", 
-        "maquina": "NOTELEANDRO" 
+        "maquina": "SMISCIPA08" 
     },
     {   
         "ramal": "3029", 
